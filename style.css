@@ -1,0 +1,87 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Inter, sans-serif;
+}
+table{
+    border-spacing: 0;
+}
+th{
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-align: center;
+}
+td{
+    font-size: 1.4rem;
+    font-weight: 1.1rem;
+    color: white;
+    padding-left: 2rem;
+}
+#cool-gray{
+    background-color: #4e5662;
+}
+#warm-gray{
+    background-color: #777573;
+}
+#amber{
+    background-color: #9d5b24;
+}
+#green{
+    background-color: #185235;
+}
+#cyan{
+    background-color: #1f616e;
+}
+#red{
+   background-color: #c6363b;
+}
+#yellow{
+    background-color: #ef9c13;
+}
+#esmerald{
+    background-color: #176249;
+}
+#sky{
+    background-color: #0780c4;
+}
+#orange{
+    background-color: #d75e1e;
+}
+#lyme{
+    background-color: #53761c;
+}
+#teal{
+    background-color: #1f4e4a;
+}
+#fuchsia{
+    background-color: #9820a3;
+}
+#pink{
+    background-color: #ac2557;
+}
+#rose{
+    background-color: #e44f6b;
+}
+#blue-gray{
+    background-color: #292e39;
+}
+#purple{
+    background-color: #6525a6;
+}
+#violet{
+    background-color: #4a258f;
+}
+#indigo{
+    background-color: #393671;
+}
+#blue{
+    background-color: #26397f;
+}
+#gray{
+    background-color: #28272a;
+}
+#true-gray{
+    background-color: #404040;
+}
